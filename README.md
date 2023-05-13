@@ -13,10 +13,10 @@ My name is Rustam. Now I'm learning Python, Git, FastAPI and some other interest
   
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/ligremanone/images/blob/main/git-original-wordmark.svg"></code>
-<code><img height="20" src="https://github.com/ligremanone/images/blob/main/python-original.svg"></code>
-<code><img height="20" src="https://github.com/ligremanone/images/blob/main/fastapi-original.svg"></code>
-<code><img height="20" src="https://github.com/ligremanone/images/blob/main/django-plain-wordmark.svg"></code>
+<code><img height="25" src="https://github.com/ligremanone/images/blob/main/git-original-wordmark.svg"></code>
+<code><img height="25" src="https://github.com/ligremanone/images/blob/main/python-original.svg"></code>
+<code><img height="25" src="https://github.com/ligremanone/images/blob/main/fastapi-original.svg"></code>
+<code><img height="25" src="https://github.com/ligremanone/images/blob/main/django-plain-wordmark.svg"></code>
 
 🚧 **My tasks:**
 <!-- TODO-IST:START -->
