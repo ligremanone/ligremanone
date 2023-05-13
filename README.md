@@ -9,7 +9,7 @@ My name is Rustam. Now I'm learning Python, Git, FastAPI and some other interest
   <img align="left" alt="Abhishek's Telegram" width="25px" src="https://github.com/ligremanone/images/blob/main/telegram.png" />
 </a> <br>
 <br>
-<img align="right" alt="GIF" src="https://github.com/ligremanone/images/blob/main/programmersday4%201.png" width="400" height="280" />
+<img align="right" alt="GIF" src="https://github.com/ligremanone/images/blob/main/programmersday4%201.png" width="400" height="400" />
   
 **Languages and Tools:**  
 
