@@ -22,5 +22,7 @@ My name is Rustam. Now I'm learning Python, Git, FastAPI and some other interest
 🚧 **My tasks:**
 <!-- TODO-IST:START -->
 * [x] Learning Python
+* [x] Learning Django
+* [x] Learning FastAPI
 * [ ] Learning Git       
 <!-- TODO-IST:END -->
