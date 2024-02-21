@@ -10,7 +10,7 @@ My name is Rustam. Now I'm learning Python, Git, FastAPI and some other interest
 </a> <br>
 <br>
   
-<img align="right" src="https://github.com/ligremanone/images/blob/main/programmerpng.png" width="250" height="250" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Languages and Tools:**  
 
